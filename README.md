@@ -2,4 +2,4 @@
 
 Project date: 2020
 
-Generate Thousand of AlpaNumeric Value and then exceute multi-thread function to check for duplicates before appending the newly generated values
+Generate thousand of alphanumeric values and then execute multi-thread function to check for duplicates before appending to the current collection
