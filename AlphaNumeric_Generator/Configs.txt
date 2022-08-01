@@ -1,0 +1,20 @@
+-----Configuration-----
+//Prof_____
+Profile1: Jessie D:\Chrome_Jessie
+Profile2: Taburnok D:\Chome_Taburnok_Profile
+Profile3: Burakday D:\Chrome_Burakday_Profile
+Profile4: Josiery D:\Chrome_Josiery_Profile
+Profile5: Chrome-dev D:\chrome-dev-profile
+Profile6: PAM D://dsdsdsdsds
+//
+//Links_____
+Google: https://www.google.com/
+Modem: http://192.168.8.1/html/home.html
+Modem_Block: http://192.168.8.1/html/nosignal.html
+link1: https://www.elseif_Link1tessssssss.com
+link2: https://www.elseif_Link2.com
+StartXPath: .//div[contains(text(),'Start reviews')]
+ContinueXPath: .//a[contains(text(),'Continue')]
+Relogin: .//span[contains(text(),'LOG IN')]
+Music_Path: D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Music\The Most Precious Treasure.wav.wav
+-----Configuration_End-----

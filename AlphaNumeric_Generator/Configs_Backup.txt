@@ -1,0 +1,10 @@
+-----Configuration-----
+Lidar_Q: https://www.remotasks.com/tasks?type=lidar
+Music_Path: D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Music\The Most Precious Treasure.wav.wav
+Profile1: Jessie D:\Chrome_Jessie
+Profile2: Taburnok D:\Chome_Taburnok_Profile
+Profile3: Burakday D:\Chrome_Burakday_Profile
+Profile4: Josiery D:\Chrome_Josiery_Profile
+Profile5: Chrome-dev D:\chrome-dev-profile
+Profile6: PAM D://dsdsdsdsds
+-----Configuration_End-----
